@@ -1,4 +1,4 @@
-Bank Management System
+#Bank Management System
 Purpose: Bank Management System is based on dot NET and is a major project fro students.It is used to Keep the records of clients,employee etc in Bank.The bank management system is an application for maintaining a personâ„¢s account in a bank . The system provides the access to the customer to create an account, deposit/withdraw the cash from his account, also to view reports of all accounts present. The following presentation provides the specification for the system.
 
 Aim: To develop a software for solving financial applications of a customer in banking environment in order to nurture the needs of an end banking user by providing various ways to perform banking tasks. Also to enable the userâ„¢s workspace to have additional functionalities which are not provided under a conventional banking software.
